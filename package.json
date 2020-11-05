@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "lint-md .",
     "lint": "lint-md .",
     "lint:fix": "lint-md --fix ."
   },
